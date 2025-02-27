@@ -1,4 +1,3 @@
-Here's a quick README for your TouchDesigner project:  
 
 ---
 
@@ -27,7 +26,3 @@ This project builds on a pre-existing dome projection setup in TouchDesigner, wh
 ## Notes  
 - All visuals are optimized for dome projection, ensuring proper distortion correction.  
 - The project leverages TouchDesigner’s real-time rendering capabilities to create dynamic, evolving visuals.  
-
----
-
-Let me know if you want any tweaks!
