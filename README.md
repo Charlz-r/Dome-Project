@@ -2,7 +2,7 @@
 ---
 
 # Dome Projection Graphics in TouchDesigner
-## (VIDEO LINK){https://youtu.be/cTkpZLp49MU}
+## ![VIDEO LINK]([recreation.png](https://youtu.be/cTkpZLp49MU))
 
 ## Overview  
 This project builds on a pre-existing dome projection setup in TouchDesigner, where I designed three unique visuals to be projected onto the dome. Each visual explores different motion and texture techniques to create immersive effects.  
